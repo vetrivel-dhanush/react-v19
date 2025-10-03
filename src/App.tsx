@@ -1,10 +1,10 @@
 import './App.css';
-import { UseImperativeHandleExample } from './hooks';
+import { ErrorBoundaryExample } from './features';
 
 function App() {
   return (
     <div>
-      <UseImperativeHandleExample />
+      <ErrorBoundaryExample />
     </div>
   );
 }
