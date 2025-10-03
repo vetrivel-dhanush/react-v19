@@ -1,1 +1,2 @@
-export * from './ErrorBoundary'
+export * from './ErrorBoundary';
+export * from './lazyLoad';

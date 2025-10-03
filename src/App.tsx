@@ -1,10 +1,10 @@
 import './App.css';
-import { ErrorBoundaryExample } from './features';
+import { LazyLoadExample } from './features';
 
 function App() {
   return (
     <div>
-      <ErrorBoundaryExample />
+      <LazyLoadExample />
     </div>
   );
 }
