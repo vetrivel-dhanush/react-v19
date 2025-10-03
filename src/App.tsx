@@ -1,10 +1,10 @@
 import './App.css';
-import { UseTransitionExample } from './hooks';
+import { UseImperativeHandleExample } from './hooks';
 
 function App() {
   return (
     <div>
-      <UseTransitionExample />
+      <UseImperativeHandleExample />
     </div>
   );
 }
