@@ -1,11 +1,12 @@
-import './App.css'
+import './App.css';
+import { UseTransitionExample } from './hooks';
 
 function App() {
-
   return (
-    <div>Hello world</div>
-  )
+    <div>
+      <UseTransitionExample />
+    </div>
+  );
 }
 
 export default App;
-
